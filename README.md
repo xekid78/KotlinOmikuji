@@ -6,13 +6,6 @@
 
 ## コード
 ```
-fun main(args: Array<String>) {
-    println("Hello World")
-}
-```
-
-## 出力結果  
-```
 import java.util.Random
 
 fun main(args: Array<String>) {
@@ -27,6 +20,11 @@ fun main(args: Array<String>) {
         else "大凶"    
     println(omikuji)
 }
+```
+
+## 出力結果  
+```
+大吉
 ```
 
 ## 開発環境
